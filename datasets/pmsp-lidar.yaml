@@ -7,6 +7,7 @@ UpdateFrequency: Local survey executed by demand generates new data as local poi
 Tags:
   - cities
   - land
+  - forestry
   - lidar
   - urban
   - geospatial
@@ -41,6 +42,10 @@ DataAtWork:
       URL: http://forsys.sefs.uw.edu/fusion/fusionlatest.html
       AuthorName: US Department of Agriculture - Forest Service
       AuthorURL: https://www.usda.gov/
+    - Title: CloudCompare
+      URL: https://www.danielgm.net/cc/
+      AuthorName: Daniel Girardeau-Montaut
+      AuthorURL: https://github.com/dgirardeau
   Publications:
     - Title: Describing the Vertical Structure of Informal Settlements on the Basis of LiDAR Data – A Case Study for Favelas (Slums) in Sao Paulo City
       URL: https://doi.org/10.5194/isprs-annals-IV-2-W5-437-2019
